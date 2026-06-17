@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Armel Asopjio
+# 👋 Hello!! I am Armel 
 
 I am a Data Science and Mathematics student at Luther College with a passion for leveraging data to uncover insights and build meaningful solutions. <br>
 Currently, I am focused on creating interactive analytical dashboards and applying statistical modeling to real-world problems.
