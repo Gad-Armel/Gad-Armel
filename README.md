@@ -23,6 +23,9 @@ My recent work has focused heavily on building full-scale **R Shiny business int
 # 🚀 Featured Projects
 
 ## 🌐 Business Operations Intelligence Dashboard — Oceanex Service International
+## 🚀 Live Demo & Access
+
+* 🌐 **Live Interactive App:** [Launch Dashboard](https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/)
 
 A comprehensive enterprise-style business intelligence platform developed during my Data Science internship at **Oceanex Service International**.
 
