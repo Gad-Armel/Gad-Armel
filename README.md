@@ -4,9 +4,9 @@
 
 I turn complex data into interactive applications that help people understand performance, investigate risks, and make informed business decisions.
 
-I earned my **B.A. in Data Science from Luther College** and have hands-on experience building analytical dashboards, data pipelines, statistical models, and decision-support tools. My recent work centers on **R Shiny business intelligence applications** that bring operational and financial data into one accessible environment.
+I earned my **B.A. in Data Science from Luther College** and have hands-on experience building analytical dashboards, data pipelines, statistical models, and decision support tools. My recent work centers on **R Shiny business intelligence applications** that bring operational and financial data into one accessible environment.
 
-I enjoy working across the full analytical workflow—from cleaning inconsistent datasets and connecting data sources to developing intuitive interfaces and communicating findings.
+I enjoy working across the full analytical workflow from cleaning inconsistent datasets and connecting data sources to developing intuitive interfaces and communicating findings.
 
 **Explore my work:** [Live Business Intelligence Dashboard](https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/) · [LinkedIn](https://www.linkedin.com/in/armel-asopjio) · [Email](mailto:armelasopjio@gmail.com)
 
