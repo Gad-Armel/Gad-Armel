@@ -1,75 +1,85 @@
-# Hi, I'm Armel Asopjio
+# Armel Asopjio
 
-**Data Science graduate | Business Intelligence Developer | R Shiny, Python, and MQL5**
+**Data Science Graduate · Business Intelligence Developer · Decision-Support Engineer**
 
-I build decision-support applications that turn operational and market data into clear, reliable workflows. I focus on practical analytics, transparent assumptions, data quality, and risk-aware execution.
+I build practical analytics products that turn operational, financial, and market data into clearer decisions. My work combines business intelligence, data engineering, statistical analysis, interactive dashboards, and risk-aware automation.
 
-**Location:** Houston, Texas  
-**Education:** B.A. in Data Science, Luther College  
-**LinkedIn:** [armel-asopjio](https://www.linkedin.com/in/armel-asopjio/)  
-**Email:** [armelasopjio@gmail.com](mailto:armelasopjio@gmail.com)
+I focus on the full path from messy source data to a usable decision workflow: understanding the business problem, validating definitions, building repeatable analysis, communicating uncertainty, and documenting what a system can—and cannot—claim.
 
-## Featured Projects
+- **Location:** Houston, Texas
+- **Education:** B.A. in Data Science, Luther College
+- **LinkedIn:** [armel-asopjio](https://www.linkedin.com/in/armel-asopjio/)
+- **Email:** [armelasopjio@gmail.com](mailto:armelasopjio@gmail.com)
 
-### AI Gold Trading Platform
+## Featured projects
 
-**Repository:** [AI-Gold-Trading-Platform](https://github.com/Gad-Armel/AI-Gold-Trading-Platform)
+### Aurum Market Risk & Execution Platform
 
-A research-first XAUUSD trading platform that combines a native MQL5 expert advisor, Python consensus and advisory services, MT5 market data, and a local unified dashboard.
+A research-first XAUUSD platform combining Python market analysis, a native MQL5 Expert Advisor, MetaTrader 5 integration, demo safeguards, replay validation, and a local command center.
 
-**Problem addressed:** fragmented market analysis, inconsistent risk controls, and limited visibility into entry, exit, and account-state decisions.
+**Problem solved:** fragmented signal analysis and inconsistent execution controls make it difficult to understand, test, and govern trading decisions.
 
-**Tools:** Python, MQL5, MetaTrader 5, pandas, NumPy, scikit-learn, Joblib, PyYAML, local dashboards, and deterministic test suites.
+**Stack:** Python, pandas, NumPy, scikit-learn, Joblib, PyYAML, MQL5, MetaTrader 5, PowerShell, deterministic tests, and risk controls.
 
-**What it demonstrates:** system architecture, market-data integration, demo-only execution safeguards, account and position-risk controls, deterministic validation, and documented research limitations.
+[View the repository](https://github.com/Gad-Armel/XAUUSD-Market-Intelligence-Risk-Platform)
 
-> Trading research and historical validation do not prove future profitability. The project keeps live execution and position sizing explicitly controlled.
+### Aurelis Operations Decision Intelligence
 
-### Business Operations Intelligence Dashboard
+An R Shiny workspace for sales, customers, quotations, procurement, inventory, suppliers, receivables, forecasting, and operational reporting.
 
-**Repository:** [Business Operations Intelligence Dashboard](https://github.com/Gad-Armel/Business_Operations_Intelligence_Dashboard)  
-**Live:** [Interactive dashboard](https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/)
+**Problem solved:** leaders need to move from executive KPIs to detailed operational evidence without losing definitions, context, or data lineage.
 
-An R Shiny application for investigating business performance across customer accounts, sales, procurement, inventory, quotations, and financial indicators.
+**Stack:** R, Shiny, bs4Dash, dplyr, tidyr, ggplot2, Plotly, DT, Leaflet, readxl, openxlsx, JSON, HTML, CSS, and JavaScript.
 
-**Problem addressed:** executive and operational teams often need to move between high-level KPIs and detailed records without losing context or data definitions.
+[View the repository](https://github.com/Gad-Armel/Aurelis-Operations-Intelligence)
 
-**Tools:** R, Shiny, bs4Dash, dplyr, tidyr, ggplot2, Plotly, DT, readxl, openxlsx, Leaflet, HTML, CSS, and JavaScript.
+### Aurelis Beauty Performance Analytics
 
-**What it demonstrates:** interactive KPI reporting, connected filters, drill-down analysis, financial and customer views, supplier and inventory monitoring, geospatial exploration, and export workflows.
+A responsive analytics prototype for multi-location beauty and salon businesses, covering revenue pace, costs, targets, customer acquisition, source confidence, and location comparison.
 
-### Aurelis Business Intelligence
+**Problem solved:** disconnected reports make it difficult to compare locations and identify performance or cost pressure.
 
-A premium R Shiny decision-support concept for multi-location operations and analysis. It provides executive views, statistical analysis, forecasting, data exploration, scenario tools, and presentation-oriented reporting.
+**Stack:** R, Shiny, React, HTML, CSS, JavaScript, npm, responsive dashboard design, and KPI modeling.
 
-**Problem addressed:** operational leaders need repeatable analysis, transparent assumptions, and connected evidence rather than disconnected charts.
+[View the repository](https://github.com/Gad-Armel/Aurelis-Beauty-Business-Intelligence)
 
-**Tools:** R, Shiny, bs4Dash, dplyr, tidyr, jsonlite, Plotly, DT, HTML, CSS, JavaScript, and local validation suites.
+### Oceanex Commercial Finance & Operations Analytics
 
-**What it demonstrates:** data-quality checks, statistical testing, regression and correlation analysis, scenario modeling, financial metric definitions, responsive dashboards, and honest prototype boundaries.
+An R-based commercial analytics platform for quotation charges, customer revenue, purchase orders, receivables, source mapping, and repeatable reporting.
 
-## Technical Skills
+**Problem solved:** commercial teams need consistent financial estimates and a consolidated view of operational exposure across spreadsheets and source systems.
 
-| Area | Tools |
+**Stack:** R, Shiny, Excel integration, Access-oriented mapping, data pipelines, financial modeling, HTML, CSS, and JavaScript.
+
+[View the repository](https://github.com/Gad-Armel/Oceanex-Commercial-Operations-Intelligence)
+
+## Additional analytics work
+
+- **Career Center Engagement & Outcomes Analytics** — dashboards for career fairs, campus events, applications, appointments, geographic patterns, and student engagement planning.
+- **Seed Savers Sales & Customer Analytics** — Shiny and R analyses supporting customer, product, sales, revenue, and geographic performance review for an agricultural nonprofit context.
+
+## Technical toolkit
+
+| Area | Tools and skills |
 |---|---|
 | Analytics | R, Python, SQL, pandas, NumPy, scikit-learn, statistical modeling |
-| Business Intelligence | R Shiny, bs4Dash, Tableau, Excel, KPI and executive reporting |
+| Business intelligence | R Shiny, Tableau, Excel, KPI design, executive reporting |
 | Visualization | ggplot2, Plotly, DT, Leaflet, interactive dashboards |
-| Data Engineering | dplyr, tidyr, readxl, openxlsx, jsonlite, data cleaning and integration |
-| Financial & Risk Analysis | account-state controls, scenario analysis, KPI lineage, statistical validation |
-| Trading & Automation | MQL5, MetaTrader 5, Python, deterministic testing, demo execution safeguards |
-| Development | Git, GitHub, RStudio, VS Code, HTML, CSS, JavaScript |
+| Data engineering | dplyr, tidyr, readxl, openxlsx, jsonlite, data cleaning, schema mapping |
+| Financial and risk analysis | receivables, quotation modeling, scenario analysis, risk gates, KPI lineage |
+| Trading and automation | MQL5, MetaTrader 5, Python, deterministic validation, demo safeguards |
+| Development | Git, GitHub, RStudio, VS Code, HTML, CSS, JavaScript, React, npm |
 
-## How I Approach Analysis
+## How I work
 
-- Start with a decision that the analysis must support.
-- Preserve data lineage, source quality, timestamps, and assumptions.
-- Build repeatable checks before presenting a result.
-- Separate implemented capabilities from prototype or research-only claims.
-- Communicate limitations clearly and optimize for useful, trustworthy decisions.
+- Start with the decision the analysis must support.
+- Preserve data lineage, definitions, timestamps, and assumptions.
+- Build validation checks before presenting results.
+- Separate implemented capability from prototype and research claims.
+- Prefer transparent, maintainable workflows over impressive but unverifiable output.
 
-## Let's Connect
+## Connect
 
-I’m interested in data analytics, business intelligence, data science, actuarial analytics, and decision-support engineering roles.
+I am interested in data analytics, business intelligence, data science, actuarial analytics, and decision-support engineering opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/armel-asopjio/) · [Email](mailto:armelasopjio@gmail.com)
