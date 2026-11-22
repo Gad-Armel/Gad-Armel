@@ -1,113 +1,75 @@
-# 👋 Hi, I’m Armel Asopjio
+# Hi, I'm Armel Asopjio
 
-### Data Science Graduate | Business Intelligence & Analytics | R Shiny Developer
+**Data Science graduate | Business Intelligence Developer | R Shiny, Python, and MQL5**
 
-I turn complex data into interactive applications that help people understand performance, investigate risks, and make informed business decisions.
+I build decision-support applications that turn operational and market data into clear, reliable workflows. I focus on practical analytics, transparent assumptions, data quality, and risk-aware execution.
 
-I earned my **B.A. in Data Science from Luther College** and have hands-on experience building analytical dashboards, data pipelines, statistical models, and decision support tools. My recent work centers on **R Shiny business intelligence applications** that bring operational and financial data into one accessible environment.
+**Location:** Houston, Texas  
+**Education:** B.A. in Data Science, Luther College  
+**LinkedIn:** [armel-asopjio](https://www.linkedin.com/in/armel-asopjio/)  
+**Email:** [armelasopjio@gmail.com](mailto:armelasopjio@gmail.com)
 
-I enjoy working across the full analytical workflow from cleaning inconsistent datasets and connecting data sources to developing intuitive interfaces and communicating findings.
+## Featured Projects
 
-**Explore my work:** [Live Business Intelligence Dashboard](https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/) · [LinkedIn](https://www.linkedin.com/in/armel-asopjio) · [Email](mailto:armelasopjio@gmail.com)
+### AI Gold Trading Platform
 
----
+**Repository:** [AI-Gold-Trading-Platform](https://github.com/Gad-Armel/AI-Gold-Trading-Platform)
 
-## 🛠️ Technical Skills
+A research-first XAUUSD trading platform that combines a native MQL5 expert advisor, Python consensus and advisory services, MT5 market data, and a local unified dashboard.
 
-| Area | Skills & Tools |
-| :--- | :--- |
-| **Programming & Web** | Python, R, SQL, HTML, CSS, JavaScript |
-| **Business Intelligence** | R Shiny, bs4Dash, Tableau, Excel, KPI Reporting |
-| **Analytics & Modeling** | Statistical Modeling, Regression Analysis, Machine Learning |
-| **Data Preparation** | Data Cleaning, Transformation, Integration, dplyr, tidyr |
-| **Visualization & Reporting** | ggplot2, Plotly, DT, Interactive Dashboards, Excel Exports |
-| **Development Tools** | Git, GitHub, RStudio, CoCalc |
-| **Languages** | English, French |
+**Problem addressed:** fragmented market analysis, inconsistent risk controls, and limited visibility into entry, exit, and account-state decisions.
 
----
+**Tools:** Python, MQL5, MetaTrader 5, pandas, NumPy, scikit-learn, Joblib, PyYAML, local dashboards, and deterministic test suites.
 
-## 🚀 Featured Projects
+**What it demonstrates:** system architecture, market-data integration, demo-only execution safeguards, account and position-risk controls, deterministic validation, and documented research limitations.
 
-### 🌐 Business Operations Intelligence Dashboard
-**Oceanex Service International · Data Science Internship**
+> Trading research and historical validation do not prove future profitability. The project keeps live execution and position sizing explicitly controlled.
 
-An integrated **R Shiny and bs4Dash application** that connects operational, financial, customer, procurement, inventory, and quotation data to support business analysis and commercial decisions.
+### Business Operations Intelligence Dashboard
 
-Built to help users move from high-level performance indicators to detailed investigations of customers, orders, suppliers, and financial exposure.
+**Repository:** [Business Operations Intelligence Dashboard](https://github.com/Gad-Armel/Business_Operations_Intelligence_Dashboard)  
+**Live:** [Interactive dashboard](https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/)
 
-**Highlights:**
+An R Shiny application for investigating business performance across customer accounts, sales, procurement, inventory, quotations, and financial indicators.
 
-- **Business performance:** Executive KPIs, sales, revenue, gross profit, and margin analysis.
-- **Customer intelligence:** Accounts receivable, payment history, financial exposure, and relationship tracking.
-- **Operations & procurement:** Purchase orders, buyer activity, deliveries, inventory, warehouse monitoring, and supplier analysis.
-- **Quotation & pricing:** Interactive pricing scenarios incorporating customer payment history, with multi-user quotation and workspace functionality.
-- **Interactive exploration:** Geographic mapping, location drilldowns, connected filters, and Plotly visualizations.
-- **Reporting & data reliability:** Configurable reports, Excel exports, and data-processing safeguards for missing fields, changing schemas, and inconsistent source data.
+**Problem addressed:** executive and operational teams often need to move between high-level KPIs and detailed records without losing context or data definitions.
 
-**Tech stack:** R · Shiny · bs4Dash · dplyr · tidyr · Plotly · DT · readxl · openxlsx · HTML · CSS · JavaScript
+**Tools:** R, Shiny, bs4Dash, dplyr, tidyr, ggplot2, Plotly, DT, readxl, openxlsx, Leaflet, HTML, CSS, and JavaScript.
 
-**[→ Explore the Live Dashboard](https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/)**
+**What it demonstrates:** interactive KPI reporting, connected filters, drill-down analysis, financial and customer views, supplier and inventory monitoring, geospatial exploration, and export workflows.
 
----
+### Aurelis Business Intelligence
 
-### 📊 Career Center Analytics Dashboard
+A premium R Shiny decision-support concept for multi-location operations and analysis. It provides executive views, statistical analysis, forecasting, data exploration, scenario tools, and presentation-oriented reporting.
 
-A multi-page **R Shiny application** designed to help career center staff explore student engagement and career-development activities.
+**Problem addressed:** operational leaders need repeatable analysis, transparent assumptions, and connected evidence rather than disconnected charts.
 
-**Highlights:**
+**Tools:** R, Shiny, bs4Dash, dplyr, tidyr, jsonlite, Plotly, DT, HTML, CSS, JavaScript, and local validation suites.
 
-- Analyzed career fairs, appointments, employer participation, and student engagement.
-- Developed seasonal and categorical filters, staff-specific drilldowns, and interactive charts.
-- Incorporated geographic mapping and faceted visualizations to support detailed exploration.
+**What it demonstrates:** data-quality checks, statistical testing, regression and correlation analysis, scenario modeling, financial metric definitions, responsive dashboards, and honest prototype boundaries.
 
-**Tech stack:** R · Shiny · dplyr · tidyr · ggplot2 · Plotly · DT · Leaflet · usmap
+## Technical Skills
 
----
+| Area | Tools |
+|---|---|
+| Analytics | R, Python, SQL, pandas, NumPy, scikit-learn, statistical modeling |
+| Business Intelligence | R Shiny, bs4Dash, Tableau, Excel, KPI and executive reporting |
+| Visualization | ggplot2, Plotly, DT, Leaflet, interactive dashboards |
+| Data Engineering | dplyr, tidyr, readxl, openxlsx, jsonlite, data cleaning and integration |
+| Financial & Risk Analysis | account-state controls, scenario analysis, KPI lineage, statistical validation |
+| Trading & Automation | MQL5, MetaTrader 5, Python, deterministic testing, demo execution safeguards |
+| Development | Git, GitHub, RStudio, VS Code, HTML, CSS, JavaScript |
 
-### 🌱 Seed Savers Exchange Dashboard
-**Internship Project**
+## How I Approach Analysis
 
-An interactive analytical application supporting agricultural diversity and seed-preservation initiatives.
+- Start with a decision that the analysis must support.
+- Preserve data lineage, source quality, timestamps, and assumptions.
+- Build repeatable checks before presenting a result.
+- Separate implemented capabilities from prototype or research-only claims.
+- Communicate limitations clearly and optimize for useful, trustworthy decisions.
 
-**Highlights:**
+## Let's Connect
 
-- Cleaned, transformed, and joined complex agricultural datasets.
-- Developed interactive visualizations to make organizational data easier to explore.
-- Organized analytical views to support informed decision-making.
+I’m interested in data analytics, business intelligence, data science, actuarial analytics, and decision-support engineering roles.
 
-**Tech stack:** R · Shiny · dplyr · tidyr · ggplot2 · Plotly · DT · readxl
-
----
-
-### 📈 Energy Consumption Research
-**Luther College · Historical Data, 2017–2024**
-
-A statistical research project examining campus energy-consumption patterns and factors associated with changes in usage.
-
-**Highlights:**
-
-- Applied simple and multiple linear regression to investigate energy-consumption drivers.
-- Evaluated patterns associated with energy-efficiency initiatives.
-- Examined residuals to identify unusual observations and areas for further investigation.
-
-**Tech stack:** R · Regression Analysis · Statistical Modeling · ggplot2 · Plotly · dplyr
-
----
-
-## 🎓 Education
-
-**Bachelor of Arts in Data Science**  
-Luther College · May 2026
-
----
-
-## 🤝 Let’s Connect
-
-I’m interested in opportunities in **data analytics, business intelligence, data science, and actuarial analytics**, particularly roles involving statistical modeling, interactive applications, and business decision support.
-
-If your team needs someone who enjoys connecting data, analysis, and practical tools, I’d welcome a conversation.
-
-📧 **Email:** [armelasopjio@gmail.com](mailto:armelasopjio@gmail.com)  
-💼 **LinkedIn:** [armel-asopjio](https://www.linkedin.com/in/armel-asopjio)
-
-*Turning data into decisions.*
+[LinkedIn](https://www.linkedin.com/in/armel-asopjio/) · [Email](mailto:armelasopjio@gmail.com)
