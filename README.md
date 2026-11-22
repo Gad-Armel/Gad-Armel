@@ -1,50 +1,46 @@
-# 👋 Hi, I'm Armel Asopjio
-
-### Data Science Graduate | M.S. Artificial Intelligence Student | Business Intelligence Developer
-
-I build data-driven applications, intelligent analytical systems, and interactive dashboards that transform complex data into practical business insights and reliable decision-support tools.
-
-My interests sit at the intersection of **Data Science, Applied AI, Business Intelligence, Analytics Engineering, and Software Development**. I enjoy taking projects from data exploration and pipeline development to interactive applications and decision-oriented reporting.
-
-📍 **Location:** Boston, Massachusetts, USA  
-🎓 **Current Studies:** M.S. in Artificial Intelligence — Northeastern University (ALIGN), In Progress  
-🎓 **Previous Education:** B.A. in Data Science — Luther College  
-💼 **LinkedIn:** [armel-asopjio](https://www.linkedin.com/in/armel-asopjio/)  
-📧 **Email:** [armelasopjio@gmail.com](mailto:armelasopjio@gmail.com)
+ <p align="center">
+  <img src="assets/profile-banner.svg" alt="Armel Asopjio — Data Science, Applied AI and Business Intelligence" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/armel-asopjio/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:armelasopjio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Gad-Armel">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/armel-asopjio/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:armelasopjio@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-087EA4?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="https://github.com/Gad-Armel?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE%20PROJECTS-153E75?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub projects" /></a>
+</p>
+
+<p align="center">
+  **📍 Boston, Massachusetts, USA** &nbsp;•&nbsp;
+  **🎓 M.S. in Artificial Intelligence — Northeastern University (ALIGN), In Progress** &nbsp;•&nbsp;
+  **🎓 B.A. in Data Science — Luther College**
 </p>
 
 ---
+
+## 👋 About Me
+
+I am a Data Science graduate currently pursuing a **Master of Science in Artificial Intelligence at Northeastern University**. I build data-driven applications, intelligent analytical systems, and interactive dashboards that transform complex data into practical business insights and reliable decision-support tools.
+
+My interests sit at the intersection of **Data Science, Applied AI, Business Intelligence, Analytics Engineering, and Software Development**. I enjoy taking projects from data exploration and pipeline development to interactive applications and decision-oriented reporting.
 
 ## 🚀 What I Do
 
 - **Data Science & Applied AI:** Statistical modeling, machine learning workflows, predictive analysis, and data-driven experimentation.
 - **Business Intelligence:** Interactive dashboards, executive reporting, KPI monitoring, and operational performance analysis.
 - **Data Engineering:** Data cleaning, transformation, integration, validation, and structured analytical pipelines.
-- **Application Development:** Building analytical applications and decision-support platforms using R Shiny, Python, and modern web technologies.
+- **Application Development:** Analytical applications and decision-support platforms using R Shiny, Python, and web technologies.
 - **Financial & Quantitative Analytics:** Market-data analysis, algorithmic trading research, risk controls, and statistical validation.
 
 ## 💻 Featured Projects
 
 ### 1. AI Gold Trading Platform
 
-[![GitHub Repository](https://img.shields.io/badge/Repository-AI--Gold--Trading--Platform-181717?style=flat&logo=github)](https://github.com/Gad-Armel/AI-Gold-Trading-Platform)
+[![Repository](https://img.shields.io/badge/GitHub-AI%20Gold%20Trading%20Platform-153E75?style=flat&logo=github&logoColor=white)](https://github.com/Gad-Armel/AI-Gold-Trading-Platform)
 
 A research-focused algorithmic trading platform designed for XAUUSD. It combines a native MQL5 Expert Advisor, Python-based analytical and advisory services, MetaTrader 5 market data, and a local unified dashboard.
 
 **Problem addressed:** Fragmented market analysis, inconsistent risk controls, and limited visibility into trading decisions, execution conditions, and account state.
 
-**Technologies:** Python, MQL5, MetaTrader 5, pandas, NumPy, scikit-learn, Joblib, PyYAML.
+**Technologies:** Python, MQL5, MetaTrader 5, pandas, NumPy, scikit-learn, Joblib, and PyYAML.
 
 **Key areas of work:**
 - Market-data collection and processing.
@@ -54,20 +50,20 @@ A research-focused algorithmic trading platform designed for XAUUSD. It combines
 - Demo and paper-trading safeguards.
 - Deterministic testing and system validation.
 
-*The project is research-oriented. Historical testing and paper-trading results do not establish future profitability.*
-
----
+> The project is research-oriented. Historical testing and paper-trading results do not establish future profitability.
 
 ### 2. Business Operations Intelligence Dashboard
 
-[![GitHub Repository](https://img.shields.io/badge/Repository-Business--Operations--BI-181717?style=flat&logo=github)](https://github.com/Gad-Armel/Business_Operations_Intelligence_Dashboard)
-[![Live Dashboard](https://img.shields.io/badge/Live-Interactive%20Dashboard-2EA44F?style=flat&logo=posit)](https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/)
+<p>
+  <a href="https://github.com/Gad-Armel/Business_Operations_Intelligence_Dashboard"><img src="https://img.shields.io/badge/GitHub-Source%20Code-153E75?style=flat&logo=github&logoColor=white" alt="Source code" /></a>
+  <a href="https://01a01223-1254-a7f1-d063-2da92b192657.share.connect.posit.cloud/"><img src="https://img.shields.io/badge/Live-Open%20Dashboard-087EA4?style=flat&logo=posit&logoColor=white" alt="Live dashboard" /></a>
+</p>
 
-An interactive R Shiny business intelligence application developed to explore business performance across customer accounts, sales, procurement, inventory, quotations, and financial indicators.
+An interactive R Shiny business intelligence application for exploring business performance across customer accounts, sales, procurement, inventory, quotations, and financial indicators.
 
 **Problem addressed:** Helping business and operational teams move from high-level KPIs to detailed records while maintaining context, consistent metrics, and transparent data definitions.
 
-**Technologies:** R, Shiny, bs4Dash, dplyr, tidyr, ggplot2, Plotly, DT, readxl, openxlsx, Leaflet, HTML, CSS, JavaScript.
+**Technologies:** R, Shiny, bs4Dash, dplyr, tidyr, ggplot2, Plotly, DT, readxl, openxlsx, Leaflet, HTML, CSS, and JavaScript.
 
 **Key capabilities:**
 - Interactive KPI dashboards.
@@ -77,66 +73,37 @@ An interactive R Shiny business intelligence application developed to explore bu
 - Geospatial data exploration.
 - Exportable reports and analytical workflows.
 
----
-
 ### 3. Multi-Location Beauty Salon Intelligence Dashboard
 
-**Project Type:** Client-focused Business Intelligence solution  
-**Status:** In Development / Solution Design
+**Project type:** Client-focused Business Intelligence solution &nbsp;•&nbsp; **Status:** Solution design / development planning
 
-A premium business intelligence solution designed for a beauty salon operating across two locations.
-
-The objective is to centralize location-level digital engagement and business performance into one responsive dashboard, accessible from both desktop and mobile devices.
+A premium business intelligence solution designed for a beauty salon operating across two locations. The objective is to centralize location-level digital engagement and business performance in one responsive dashboard, accessible from desktop and mobile devices.
 
 **Problem addressed:** Salon owners need a clear view of how customers interact with each location online, alongside operational and financial performance, without relying on disconnected reports.
 
 **Planned capabilities:**
-- Daily Google Maps direction-button interaction tracking.
-- Instagram profile visit tracking for each location.
+- Daily Google Maps direction-button interaction tracking, subject to available source data.
+- Instagram profile-visit reporting for each location, subject to available platform insights.
 - Separate performance monitoring for both salon branches.
 - Business hours and social media information.
-- Historical data import and flexible data processing.
+- Historical data imports and flexible data processing.
 - Optional sales, expenses, and customer analytics.
 - Executive summaries and interactive visualizations.
 - Mobile-friendly reporting and centralized access.
 
-**Key focus areas:** Business Intelligence, KPI design, multi-location analytics, flexible data integration, dashboard architecture, and client-oriented software development.
+**Focus areas:** Business Intelligence, KPI design, multi-location analytics, flexible data integration, dashboard architecture, and client-oriented software development.
 
-*The solution is being designed around the client's available data sources and reporting requirements. Data access and tracking capabilities depend on the APIs and source reports available.*
-
----
-
-### 4. Aurelis Business Intelligence
-
-**Project Type:** Business Intelligence & Decision-Support Concept
-
-A premium R Shiny decision-support concept focused on multi-location operations, business analytics, and interactive reporting.
-
-**Problem addressed:** Operational leaders need repeatable analysis, transparent assumptions, and connected evidence rather than disconnected charts and isolated metrics.
-
-**Technologies:** R, Shiny, bs4Dash, dplyr, tidyr, jsonlite, Plotly, DT, HTML, CSS, JavaScript.
-
-**Key areas of work:**
-- Executive reporting and KPI monitoring.
-- Statistical analysis and hypothesis testing.
-- Regression and correlation analysis.
-- Scenario modeling and forecasting concepts.
-- Data-quality validation.
-- Financial metric definitions.
-- Interactive analytical exploration.
-- Responsive dashboard design.
-
----
+> Tracking and reporting capabilities depend on the APIs, platform insights, and source reports made available by the client.
 
 ## 🧪 Applied Experience & Practical Work
 
-Beyond individual projects, my practical work has focused on building analytical solutions that connect data processing, statistical reasoning, visualization, and business decision-making.
+My practical work focuses on building analytical solutions that connect data processing, statistical reasoning, visualization, and business decision-making.
 
 ### Business Intelligence & Dashboard Development
-- Development of comprehensive R Shiny business intelligence platforms.
-- Design of interactive dashboards for operational and financial analysis.
-- Creation of connected filters, drill-down workflows, and executive reporting views.
-- Implementation of reusable visualization components and reporting workflows.
+- Building comprehensive R Shiny business intelligence platforms.
+- Designing interactive dashboards for operational and financial analysis.
+- Creating connected filters, drill-down workflows, and executive reporting views.
+- Developing reusable visualization components and reporting workflows.
 
 ### Data Processing & Analytics
 - Building data-cleaning and transformation workflows.
@@ -158,8 +125,6 @@ Beyond individual projects, my practical work has focused on building analytical
 - Exploring algorithmic trading architecture and automated risk controls.
 - Building research-oriented systems with reproducible validation processes.
 
----
-
 ## 🛠️ Technical Skills
 
 | Category | Technologies & Skills |
@@ -174,44 +139,28 @@ Beyond individual projects, my practical work has focused on building analytical
 | Development Tools | Git, GitHub, RStudio, VS Code, CoCalc |
 | Application Development | Interactive dashboards, analytical applications, decision-support systems |
 
-### Technologies
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,html,css,js,git,github,vscode" alt="Technical skills"/>
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,html,css,js,git,github,vscode" alt="Programming and development tools" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/R%20Shiny-276DC3?style=flat&logo=r&logoColor=white" alt="R Shiny"/>
-  <img src="https://img.shields.io/badge/MetaTrader%205-1E6B45?style=flat" alt="MetaTrader 5"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/R%20Shiny-276DC3?style=flat&logo=r&logoColor=white" alt="R Shiny" />
+  <img src="https://img.shields.io/badge/MetaTrader%205-1E6B45?style=flat" alt="MetaTrader 5" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
-
----
 
 ## 🎓 Education
 
 **Northeastern University — Boston, MA**  
-Master of Science in Artificial Intelligence (ALIGN)  
-*Currently pursuing*
-
-Focus: Artificial intelligence, computational problem-solving, and applied technical development.
+Master of Science in Artificial Intelligence (ALIGN) · *Currently pursuing*
 
 **Luther College**  
-Bachelor of Arts in Data Science  
-*Graduate*
+Bachelor of Arts in Data Science · *Graduate*
 
-Academic foundation in data analysis, statistics, programming, and analytical problem-solving.
-
----
-
-## 🔍 My Approach to Problem-Solving
-
-I believe that useful analytics starts with understanding the decision that needs to be made.
-
-My approach emphasizes:
+## 🔍 How I Approach Problem-Solving
 
 1. **Understand the problem:** Define the business or analytical question before selecting tools.
 2. **Understand the data:** Examine source quality, structure, limitations, and assumptions.
@@ -221,8 +170,6 @@ My approach emphasizes:
 6. **Improve continuously:** Refine analytical methods, application architecture, and technical solutions.
 
 My goal is not simply to produce charts or models, but to build systems that help people understand information and make better-informed decisions.
-
----
 
 ## 🎯 Areas of Interest
 
@@ -235,23 +182,20 @@ My goal is not simply to produce charts or models, but to build systems that hel
 - Financial Analytics & Algorithmic Trading Technology
 - Decision-Support Systems
 
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on meaningful projects, exchanging ideas, and exploring opportunities in Data Science, Artificial Intelligence, Business Intelligence, and Analytics Engineering.
 
-Whether it's building an analytical application, designing a business intelligence solution, exploring machine learning, or developing data-driven systems, I'm always interested in turning ideas into practical solutions.
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/armel-asopjio/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Armel%20Asopjio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:armelasopjio@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://www.linkedin.com/in/armel-asopjio/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:armelasopjio@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-087EA4?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+  <a href="https://github.com/Gad-Armel?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-153E75?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
 </p>
 
 <p align="center">
-  <i>"Turning data into insights, ideas into applications, and complexity into clarity."</i>
+  <em>Turning data into insights, ideas into applications, and complexity into clarity.</em>
+</p>
+
+<p align="center">
+  <sub>Data Science &nbsp;•&nbsp; Business Intelligence &nbsp;•&nbsp; Machine Learning &nbsp;•&nbsp; Analytics Engineering &nbsp;•&nbsp; Software Development</sub>
 </p>
