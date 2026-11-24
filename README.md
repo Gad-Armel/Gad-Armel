@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/armel-asopjio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:armelasopjio@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Gad-Armel"><img src="https://img.shields.io/badge/GitHub-Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://gad-armel.github.io/"><img src="https://img.shields.io/badge/Live%20Portfolio-Open-0B5ED7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open live portfolio" /></a>
 </p>
 
 ## About
