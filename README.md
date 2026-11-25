@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/armel-asopjio/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:armelasopjio@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Email" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Gad-Armel"><img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub" /></a>&nbsp;&nbsp;
-  <a href="https://gad-armel.github.io/"><img src="https://cdn.simpleicons.org/googlechrome/2563EB" width="30" alt="Live portfolio" /></a>
-</p>
-
-<p align="center">
   <a href="https://gad-armel.github.io/flyer/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO_FLYER-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View portfolio flyer" /></a>
   <a href="https://gad-armel.github.io/Armel.A_BI_Portfolio.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_PDF-0F766E?style=for-the-badge&logo=download&logoColor=white" alt="Download portfolio flyer" /></a>
 </p>
@@ -24,32 +17,44 @@ My work combines applied AI, business intelligence, interactive data application
 
 ## Selected projects
 
-<table><tr>
+<table>
+<tr>
 <td width="33%" valign="top">
 <a href="https://gad-armel.github.io/live/operations/"><img src="https://raw.githubusercontent.com/Gad-Armel/Gad-Armel/main/assets/project-operations.svg" width="100%" alt="Operations Performance Intelligence" /></a>
-<h3>Operations Performance Intelligence</h3>
-<p>Executive analytics for commercial performance, supply chain, inventory, receivables, and operational decision-making.<br /><br /></p>
-<p><b>R Shiny | Plotly | Data workflows</b></p>
-<a href="https://gad-armel.github.io/live/operations/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-0B5ED7?style=for-the-badge" alt="Live dashboard" /></a><br /><br />
-<a href="https://github.com/Gad-Armel/Aurelis-Operations-Intelligence">Project repository -&gt;</a>
 </td>
 <td width="33%" valign="top">
 <a href="https://gad-armel.github.io/live/beauty/"><img src="https://raw.githubusercontent.com/Gad-Armel/Gad-Armel/main/assets/project-customer.svg" width="100%" alt="Customer and Service Intelligence" /></a>
-<h3>Customer &amp; Service Intelligence</h3>
-<p>Business intelligence for multi-location service operations: revenue, appointments, retention, staff, inventory, and customer behavior.</p>
-<p><b>React | TypeScript | Analytics UX</b></p>
-<a href="https://gad-armel.github.io/live/beauty/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-635BFF?style=for-the-badge" alt="Live dashboard" /></a><br /><br />
-<a href="https://github.com/Gad-Armel/Aurelis-Beauty-Dashboard-Live">Project repository -&gt;</a>
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/Gad-Armel/XAUUSD-Market-Intelligence-Risk-Platform"><img src="https://raw.githubusercontent.com/Gad-Armel/Gad-Armel/main/assets/project-market.svg" width="100%" alt="Market Intelligence and Risk Research" /></a>
-<h3>Market Intelligence &amp; Risk Research</h3>
-<p>Research-first platform for market analysis, risk controls, demo execution monitoring, and MQL5 workflow integration.<br /><br /></p>
-<p><b>Python | MQL5 | MetaTrader 5</b></p>
-<a href="https://github.com/Gad-Armel/XAUUSD-Market-Intelligence-Risk-Platform"><img src="https://img.shields.io/badge/PROJECT_REPOSITORY-0F172A?style=for-the-badge" alt="Project repository" /></a>
-<p><sub>Research and engineering project. Historical analysis does not establish future trading performance.</sub></p>
 </td>
-</tr></table>
+</tr>
+<tr>
+<td valign="top"><h3>Operations Performance Intelligence</h3></td>
+<td valign="top"><h3>Customer &amp; Service Intelligence</h3></td>
+<td valign="top"><h3>Market Intelligence &amp; Risk Research</h3></td>
+</tr>
+<tr>
+<td height="72" valign="top">Executive analytics for commercial performance, supply chain, inventory, receivables, and operational decision-making.</td>
+<td height="72" valign="top">Business intelligence for revenue, appointments, customer retention, staff performance, inventory, and service operations.</td>
+<td height="72" valign="top">Research tooling for market analysis, risk controls, demo execution monitoring, and MQL5 workflow integration.</td>
+</tr>
+<tr>
+<td height="32" valign="top"><b>R Shiny | Plotly | Data workflows</b></td>
+<td height="32" valign="top"><b>React | TypeScript | Analytics UX</b></td>
+<td height="32" valign="top"><b>Python | MQL5 | MetaTrader 5</b></td>
+</tr>
+<tr>
+<td><a href="https://gad-armel.github.io/live/operations/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-0B5ED7?style=for-the-badge" alt="Live dashboard" /></a></td>
+<td><a href="https://gad-armel.github.io/live/beauty/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-635BFF?style=for-the-badge" alt="Live dashboard" /></a></td>
+<td><a href="https://github.com/Gad-Armel/XAUUSD-Market-Intelligence-Risk-Platform"><img src="https://img.shields.io/badge/PROJECT_REPOSITORY-0F172A?style=for-the-badge" alt="Project repository" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Gad-Armel/Aurelis-Operations-Intelligence">Project repository -&gt;</a></td>
+<td><a href="https://github.com/Gad-Armel/Aurelis-Beauty-Dashboard-Live">Project repository -&gt;</a></td>
+<td><sub>Research and engineering project. Historical analysis does not establish future trading performance.</sub></td>
+</tr>
+</table>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Gad-Armel/Gad-Armel/main/assets/section-curve.svg" width="100%" alt="Blue analytics divider" /></p>
 
